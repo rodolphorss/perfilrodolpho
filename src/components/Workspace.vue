@@ -2,15 +2,7 @@
   <section class="section is-medium has-background-dark" id="portfolio">
     <div class="container is-align-content-start">
       <div class="section-heading pt-5">
-        <h3
-          class="
-            title
-            is-2
-            has-text-centered
-            is-family-code
-            has-text-weight-semibold has-text-grey-light
-          "
-        >
+        <h3 class="title is-2 has-text-centered is-family-code has-text-weight-semibold has-text-grey-light">
           Projetos
         </h3>
       </div>
@@ -27,16 +19,13 @@
               </header>
               <div class="card-content">
                 <figure class="image">
-                  <img
-                    src="../assets/images/moogle.png"
-                    alt="Admin template screenshot"
-                  />
+                  <img src="../assets/images/moogle.png" alt="Just Moogle"/>
                 </figure>
               </div>
               <footer class="card-footer">
                 <a href="https://buscafilmes.vercel.app/#/" class="card-footer-item">Preview</a>
                 <a href="https://github.com/rodolphorss/buscafilmes" class="card-footer-item">
-                  SourceCode
+                  Código Fonte
                 </a>
               </footer>
             </div>
@@ -54,6 +43,3 @@ export default defineComponent({
   name: "ProjetosRodolpho",
 });
 </script>
-
-<style scoped>
-</style>
