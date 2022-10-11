@@ -57,6 +57,3 @@ export default defineComponent({
   name: "BarraDeNavegacao",
 });
 </script>
-
-<style scoped>
-</style>
